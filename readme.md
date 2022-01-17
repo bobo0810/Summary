@@ -30,7 +30,7 @@
 
 - 文档类
 
-> 笔记：为知笔记(私有部署)、思源笔记（暂未使用）
+> 笔记：为知笔记(Docker)、思源笔记（Docker）
 >
 > 其他：ShowDoc（说明文档）、 Xmind（脑图）
 
@@ -39,4 +39,4 @@
 ## 其他
 
 - [Mac 安装 brew](https://www.cnblogs.com/liyihua/p/12753163.html)
-
+- [图片爬虫](crawler.md)
