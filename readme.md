@@ -3,9 +3,9 @@
 ##  群晖
 
 - [导航页](https://post.smzdm.com/p/adwlg5rn/)
-- [私有部署gogs](./doc/gogs.md)
-- [私有部署思源笔记](https://ld246.com/article/1628768198488)
-- 私有部署为知笔记
+- [部署gogs](./doc/gogs.md)
+- [部署思源笔记](https://ld246.com/article/1628768198488)
+- [部署为知笔记](https://www.wiz.cn/zh-cn/introduction-docker-nas)
 - [文件中转站(服务器)](./doc/file_trans.md)
 
 
@@ -21,7 +21,7 @@
 ## 其他
 
 - [Mac 安装 brew](https://www.cnblogs.com/liyihua/p/12753163.html)
-- [图片爬虫](./doc/crawler.md)
+- [图片爬虫](./crawler/crawler.md)
 
 
 
