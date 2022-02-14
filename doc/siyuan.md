@@ -8,11 +8,19 @@
 
 ![](../imgs/porbelm.svg)
 
-### 解决
+### 部署
 
-解决权限问题后，Docker笔记路径映射到`Home/用户/笔记`即可。
+[部署思源笔记](https://ld246.com/article/1628768198488)
 
-[方案1](https://wp.520810.xyz:666/?p=84)   [方案2](https://www.orcy.net.cn/1636.html)
+注意：
+
+（1）docker外的用户目录需设置**访问权限**。[方案1](https://wp.520810.xyz:666/?p=84)   [方案2](https://www.orcy.net.cn/1636.html)
+
+（2）共用笔记目录data
+
+![](../imgs/WechatIMG1635.png)
+
+
 
 ### 问题
 
@@ -30,6 +38,3 @@
 >
 > ![](../imgs/WechatIMG1614.png)
 
-# 参考
-
-[部署思源笔记](https://ld246.com/article/1628768198488)
