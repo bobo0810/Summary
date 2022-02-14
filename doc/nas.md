@@ -10,3 +10,7 @@
 
    [方案1](https://wp.520810.xyz:666/?p=84)   [方案2](https://www.orcy.net.cn/1636.html)
 
+3. USB转2.5G网口
+
+   [参考1 ](https://post.smzdm.com/p/amxqo29p/)  [参考2](https://post.smzdm.com/p/aoxq39q9/)
+
