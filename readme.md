@@ -13,6 +13,7 @@
 | [文件中转站](./doc/file_trans.md)                            | 群晖-服务器双向传输文件（scp形式） |
 | [ZFile](https://www.ioiox.com/archives/93.html)              | 直链云盘分享                       |
 | [VSCode](./doc/vscode.md)                                    | 在线版代码编辑器                   |
+| [Chrome](https://post.smzdm.com/p/alx7ev6e/)                 | 通过浏览器，方便访问内网           |
 
 ## 工具
 
