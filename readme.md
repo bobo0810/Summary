@@ -14,6 +14,7 @@
 | [ZFile](https://www.ioiox.com/archives/93.html)              | 直链云盘分享                       |
 | [VSCode](./doc/vscode.md)                                    | 在线版代码编辑器                   |
 | [Chrome](https://post.smzdm.com/p/alx7ev6e/)                 | 通过浏览器，方便访问内网           |
+| [ChineseSubFinder](https://github.com/allanpk716/ChineseSubFinder/blob/docs/DesignFile/v0.20%E6%95%99%E7%A8%8B/00.Docker%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md) | 自动化中文字幕下载                 |
 
 ## GitHub
 
@@ -23,18 +24,15 @@
 
 
 
-
-
 ## 其他
 
-- [Mac 安装 brew](https://www.cnblogs.com/liyihua/p/12753163.html)
 - [图片爬虫](./crawler/crawler.md)
 
 
 
 ## 红黑榜
 
-| 年份 | 红榜                                     | 黑榜   |
-| ---- | ---------------------------------------- | ------ |
-| 2021 | 洗碗机、吸尘器、为知笔记、思源笔记、咖啡 | 炒菜机 |
+| 年份 | 红榜                           | 黑榜   |
+| ---- | ------------------------------ | ------ |
+| 2021 | 洗碗机、吸尘器、思源笔记、咖啡 | 炒菜机 |
 
