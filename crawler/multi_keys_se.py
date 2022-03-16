@@ -31,7 +31,7 @@ def main(cfg):
         if not os.path.exists(save_path):
             os.makedirs(save_path)
         # 后台下载
-        os.system("nohup python -u  image_downloader.py --timeout %d --engine %s   --driver chrome_headless --max-number  %d --output %s  %s  > %s 2>&1 &  "%(cfg.timeout,engine,cfg.max_number,save_path,keyword,log_path))
+        os.system("nohup python -u  image_downloader.py --timeout %d --engine %s    --max-number  %d --output %s  %s  > %s 2>&1 &  "%(cfg.timeout,engine,cfg.max_number,save_path,keyword,log_path))
 
 if __name__ == '__main__':
     cfg=Config()
