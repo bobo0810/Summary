@@ -15,6 +15,7 @@
 | [VSCode](./doc/vscode.md)                                    | 在线版代码编辑器                   |
 | [Chrome](https://post.smzdm.com/p/alx7ev6e/)                 | 通过浏览器，方便访问内网           |
 | [ChineseSubFinder](https://github.com/allanpk716/ChineseSubFinder/blob/docs/DesignFile/v0.20%E6%95%99%E7%A8%8B/00.Docker%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md) | 自动化中文字幕下载                 |
+| [Jackett](https://syy.hk/archives/2132.html)                 | 集成PT站，聚合搜索、自动下载。     |
 
 ## GitHub
 
