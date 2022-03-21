@@ -14,3 +14,6 @@
 
    [参考1 ](https://post.smzdm.com/p/amxqo29p/)  [参考2](https://post.smzdm.com/p/aoxq39q9/)
 
+4. Docker权限
+
+   PUID=1026, PGID=100
