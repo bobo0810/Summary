@@ -17,3 +17,7 @@
 4. Docker权限
 
    PUID=1026, PGID=100
+
+5. 群晖无法下载Docker镜像
+
+​	   [手动下载导入](https://github.com/NotGlop/docker-drag)
