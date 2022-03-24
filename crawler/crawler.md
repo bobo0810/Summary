@@ -28,11 +28,9 @@ url外网下载
 | ---------------------------------------------- | ------------------------------------------------------------ |
 | 1. 支持Google,Baidu,Bing。<br/>2. 可视化界面。 | 1. 单搜索引擎爬取<br/>2. 手动配置chrome驱动，可能失败。<br/>3. 最多爬取2千张。 |
 
-> [下载驱动](https://chromedriver.chromium.org/downloads)后，放到项目根目录及bin目录即可。
-
-多搜索引擎爬取
-
-- 项目根目录下使用[multi_keys_se.py](./multi_keys_se.py)
+> 1. [下载驱动](https://chromedriver.chromium.org/downloads)后，放到项目根目录及bin目录即可。
+>
+> 2. Google可能不可用
 
 
 
