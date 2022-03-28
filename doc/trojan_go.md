@@ -1,8 +1,8 @@
 ## NAS科学上网
 
-适用场景：群晖等NAS、Linux系统等，操作均相同。如有问题，欢迎issue~
+适用场景：群晖等NAS、Linux系统等，操作均相同。
 
-
+所需条件：Trojan-Go协议的科学上网账号
 
 [Trojan-Go配置文档](https://p4gefau1t.github.io/trojan-go/basic/config/)
 
@@ -42,6 +42,8 @@ The document has moved
 ```
 
 （3）群晖系统科学上网
+
+用途：Cloud Sync同步谷歌云等。
 
 <img src="../imgs/image-20220325155022-u5nhgl3.png" alt="image.png" style="zoom:50%;" />
 
