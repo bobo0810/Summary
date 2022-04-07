@@ -27,7 +27,7 @@
 
 ## 其他
 
-- [图片爬虫](./crawler/crawler.md)
+- [图片爬虫](./doc/crawler.md)
 - [服务器部署科学上网](https://github.com/jinwyp/one_click_script)
 
 
