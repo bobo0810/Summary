@@ -21,3 +21,9 @@
 5. 群晖无法下载Docker镜像
 
 ​	   [手动下载导入](https://github.com/NotGlop/docker-drag)
+
+6. “系统内存即将用尽” or  [xxx] stopped running because the system is out of memory.
+
+   可能原因：docker镜像占用内存过大
+
+   解决方案：加入内存限制
