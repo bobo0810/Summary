@@ -27,3 +27,19 @@
    可能原因：docker镜像占用内存过大
 
    解决方案：加入内存限制
+
+
+
+### 技巧
+
+1. 自动更新Docker镜像
+
+```bash
+sudo docker run -d \    
+     --name watchtower_dev \    
+     --restart=always \    
+     -e TZ=Asia/Shanghai \    
+     -v /var/run/docker.sock:/var/run/docker.sock \    
+     containrrr/watchtower:latest-dev --cleanup --interval 1200
+```
+
