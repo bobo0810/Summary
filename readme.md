@@ -15,7 +15,7 @@
 | [Jackett](https://syy.hk/archives/2132.html)                 | 集成PT站，聚合搜索、自动下载。                 |
 | [nas-tools](./doc/nas_tools.md)                              | 媒体库资源自动搜刮整理工具                     |
 | [Trojan-Go](./doc/trojan_go.md)                              | 客户端，实现群晖科学上网                       |
-| [qbittorrent-iyuu](https://registry.hub.docker.com/r/nevinee/qbittorrent) | qbittorrent: BT下载器      iyuu: 辅种及RSS订阅 |
+| [qbittorrent-iyuu](https://registry.hub.docker.com/r/nevinee/qbittorrent) | qbittorrent: BT下载器<br>iyuu: 辅种及RSS订阅   |
 
 ## GitHub
 
